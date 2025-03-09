@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm **Warisha Akram**  
 #### 💻 Frontent Developer | 🎨 Graphic Designer
 
-[![Untitled-design-2.jpg](https://i.postimg.cc/zG0J119G/Untitled-design-2.jpg)](https://postimg.cc/qN6f8WJP)
+[Githun-banner.jpg](https://postimg.cc/kVNpsmkp)
 
 🌟 **About Me:**  
 - 🚀 Passionate about **Web Development & Python**  
