@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm **Warisha Akram**  
-#### 💻 Full Stack Developer | 🎨 Graphic Designer | 📝 Content Writer  
+#### 💻 Frontent Developer | 🎨 Graphic Designer
 
-![Profile Banner](https://via.placeholder.com/1200x400?text=Your+Banner+Here)  
+[![Untitled-design-2.jpg](https://i.postimg.cc/zG0J119G/Untitled-design-2.jpg)](https://postimg.cc/qN6f8WJP)
 
 🌟 **About Me:**  
 - 🚀 Passionate about **Web Development & Python**  
