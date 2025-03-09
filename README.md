@@ -27,14 +27,16 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=warishaakram&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=warishaakram&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=warishaakram&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=warishaakram09&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=warishaakram09&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=warishaakram09&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/warishaakram)
+[![LinkedIn](https://www.linkedin.com/in/warisha-akram-4684b025b/)
+[![GitHub](https://github.com/Warishaakram09)
+[![FaceBook](https://www.facebook.com/profile.php?id=100087279366960)
+[![Instagram](https://www.instagram.com/warisha_akram09/)
 
 💡 **"Keep coding, keep growing!"** 🚀
