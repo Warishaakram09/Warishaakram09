@@ -24,12 +24,16 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+### 🚀 My GitHub Stats  
 
-### 📊 GitHub Stats:
+💜 **Profile Overview**  
+![Stats](https://github-readme-stats.vercel.app/api?username=warishaakram09&show_icons=true&theme=purple&hide_border=true)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=warishaakram09&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=warishaakram09&theme=tokyonight)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=warishaakram09&theme=tokyonight&no-bg=true&margin-w=10)  
+🔥 **Current Streak**  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=warishaakram09&theme=purple&hide_border=true)  
+
+🏆 **Achievements**  
+![Trophies](https://github-profile-trophy.vercel.app/?username=warishaakram09&theme=onedark&no-bg=true&margin-w=10)  
 
 ---
 
