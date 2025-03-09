@@ -32,8 +32,9 @@
 🔥 **Current Streak**  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=warishaakram09&theme=purple&hide_border=true)  
 
-🏆 **Achievements**  
-![Trophies](https://github-profile-trophy.vercel.app/?username=warishaakram09&theme=onedark&no-bg=true&margin-w=10)  
+### 🏆 Achievements  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=warishaakram09&theme=tokyonight&no-bg=true&row=1&column=6)
 
 ---
 
