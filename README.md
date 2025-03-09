@@ -27,9 +27,9 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=warishaakram09&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=warishaakram09&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=warishaakram09&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=warishaakram09&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=warishaakram09&theme=tokyonight)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=warishaakram09&theme=tokyonight&no-bg=true&margin-w=10)  
 
 ---
 
